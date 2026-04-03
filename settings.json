@@ -8,7 +8,7 @@
   "server": {
     "ip": "Novel-smp.aternos.me",
     "port": 64379,
-    "version": "1.21.1"
+    "version": "26.1"
   },
   "position": {
     "enabled": true,
